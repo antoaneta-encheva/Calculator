@@ -1,0 +1,10 @@
+D:\programirane_uni\C# И .NET\c#\calculator\bin\Debug\calculator.exe.config
+D:\programirane_uni\C# И .NET\c#\calculator\bin\Debug\calculator.exe
+D:\programirane_uni\C# И .NET\c#\calculator\bin\Debug\calculator.pdb
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.Form1.resources
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.exe
+D:\programirane_uni\C# И .NET\c#\calculator\obj\Debug\calculator.pdb
